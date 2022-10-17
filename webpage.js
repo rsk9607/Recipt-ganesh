@@ -7,4 +7,6 @@ function MyImg(){
     console.log(y);
     console.log(z);
     console.log(a);
-}
+    var q=10;
+    console.log(q);
+};
